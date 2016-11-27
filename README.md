@@ -11,4 +11,5 @@ The project contains implemetation for various Supervised ML algorithms include=
 
 These algorithms were implemented on three different datasets:
 -Breast Cancer Dataset
--
+-Optical Recognition of Handwritten Digits Data Set 
+-Forest type mapping dataset
